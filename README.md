@@ -14,7 +14,7 @@ This addon has been tested with ACS 7.1, but it should be working from ACS 5.2
 
 Manual Installation
 -------------------
-There are one "repo-tier" JAR associated with this add-on.
+There is one "repo-tier" JAR associated with this add-on.
 
 Use `mvn install` to create the JAR in `target` folder.
 
